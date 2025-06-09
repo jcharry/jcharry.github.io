@@ -20,7 +20,7 @@ export default function Home() {
             Hi friends. I&apos;m <strong>Jamie</strong>.
           </h1>
           <p>
-            I used to have a fun, flashy personal website but having kids as
+            I used to have a fun, flashy personal website but having kids has
             taught me to cull unnecessary busywork. So, here we are.
           </p>
         </div>
